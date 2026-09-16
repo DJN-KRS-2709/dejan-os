@@ -2,13 +2,7 @@
   "name": "Dejan Krstic",
   "role": "Chief Product Officer, Product School",
   "audience": "colleagues-and-collaborators",
-  "version": "1.0.0",
-  "who_i_am": {
-    "summary": "Family person, builder, coffee nerd, direct communicator. Works asynchronously. Gets his head straight by lifting in the morning.",
-    "family": "Two small kids. Family time is protected.",
-    "builder": ["food", "pizza", "burgers", "furniture", "experiments"],
-    "languages": ["German", "English", "Croatian", "Serbian", "Bosnian"]
-  },
+  "version": "1.0.1",
   "works_brilliantly_with": {
     "summary": "People who think differently, hold different beliefs, and approach work uniquely.",
     "wants": ["difference", "point-of-view", "hypotheses", "data"],
@@ -37,17 +31,6 @@
     "prefer": "in-person",
     "want": ["direct", "timely", "concrete-examples", "room-for-follow-up-questions"]
   },
-  "basics": {
-    "morning": ["weightlifting", "coffee"],
-    "coffee_nerd": true,
-    "tracks": ["beans", "grinder-settings", "extraction-times"],
-    "thinks_in": ["documents", "slide-decks"]
-  },
-  "beyond_work": {
-    "passions": ["coffee", "food", "making-things", "family", "travel-as-daily-life"],
-    "family_activities": ["tennis", "handball", "lego", "computer-games"],
-    "food": ["neapolitan-pizza", "smashed-burgers"]
-  },
   "requirements_for_great_work": {
     "summary": "Direct transparent feedback, room for ambiguity, systematically reducing uncertainty, tracking impact.",
     "complexity_model": "stacey",
@@ -59,11 +42,8 @@
     "peak": "morning",
     "default": "asynchronous",
     "collaboration": "enjoys-it",
+    "thinks_in": ["documents", "slide-decks"],
     "in_person_for": ["feedback", "conflict", "strategy", "deeper-connection"]
-  },
-  "energy": {
-    "peak": "morning",
-    "protected": ["morning-workout", "family-evenings", "morning-deep-work"]
   },
   "decision_style": {
     "summary": "Sits in ambiguity until the path is clear. Wants a hypothesis, not a polished deck. Moves on evidence or a well-founded bet.",
@@ -76,6 +56,25 @@
     "live-time-for-feedback-conflict-strategy",
     "do-not-default-to-meetings"
   ],
+  "energy": {
+    "peak": "morning",
+    "protected": ["morning-workout", "evening-time", "morning-deep-work"]
+  },
   "will_push_on": ["taste", "judgment", "toy-vs-tool", "shipping-to-learn"],
-  "will_not": ["email-threads", "alignment-theater", "hiding-bad-news"]
+  "will_not": ["email-threads", "alignment-theater", "hiding-bad-news"],
+  "who_i_am": {
+    "summary": "Direct communicator. Works asynchronously. Gets his head straight by lifting in the morning. Coffee nerd and builder.",
+    "builder": ["food", "pizza", "burgers", "furniture", "experiments"],
+    "languages": ["German", "English", "Croatian", "Serbian", "Bosnian"]
+  },
+  "basics": {
+    "morning": ["weightlifting", "coffee"],
+    "coffee_nerd": true
+  },
+  "beyond_work": {
+    "family": "Two kids. Family time is protected.",
+    "passions": ["coffee", "food", "making-things", "family", "travel-as-daily-life"],
+    "family_activities": ["tennis", "handball", "lego", "computer-games"],
+    "food": ["neapolitan-pizza", "smashed-burgers"]
+  }
 }

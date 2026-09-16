@@ -2,7 +2,7 @@
 
 > How to work with Dejan. For colleagues, collaborators, and tools.
 
-Dejan Krstic is Chief Product Officer at Product School. Direct communicator. Family person. Coffee nerd. Early bird. Async by default.
+Dejan Krstic is Chief Product Officer at Product School. Direct communicator. Early bird. Async by default. Comfortable in ambiguity. Family and personal context lives at the end of the README.
 
 ## Canonical files
 
@@ -12,4 +12,4 @@ Dejan Krstic is Chief Product Officer at Product School. Direct communicator. Fa
 
 ## Load this first
 
-Reach him on Slack, not email (email is for invites only). Convince him with honesty plus a hypothesis or data. Give feedback with Radical Candor: prompt, specific, preferably live. Mornings are deep work after lifting. Family evenings are protected. He is comfortable in ambiguity and sees his job as reducing uncertainty for others. Write first. Do not default to a meeting. Do not hide bad news.
+Reach him on Slack, not email (email is for invites only). Convince him with honesty plus a hypothesis or data. Give feedback with Radical Candor: prompt, specific, preferably live. Mornings are deep work after lifting. Evening time is protected. He is comfortable in ambiguity and sees his job as reducing uncertainty for others. Write first. Do not default to a meeting. Do not hide bad news. Personal and family context is last in the README, not first.

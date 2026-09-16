@@ -2,7 +2,7 @@
 
 I am Chief Product Officer at Product School. This page is for colleagues and collaborators: how I operate, what I care about, and how to work with me without guessing.
 
-I am a family person with two kids. I am a coffee nerd. I like making things: pizza, burgers, furniture, experiments. I work out in the morning because that is how I get my head straight. I am passionate, direct, and I prefer to work asynchronously.
+I am passionate, direct, and I prefer to work asynchronously. I work out in the morning because that is how I get my head straight.
 
 If you are a tool, start at [`dejan.json`](./dejan.json) and [`llms.txt`](./llms.txt).
 
@@ -36,18 +36,6 @@ Radical Candor. Care personally, challenge directly.
 
 I want it prompt, honest, and tied to a concrete example so I can do something with it. Live is better than a written dump, because I will ask follow-up questions until I understand. Growth without that kind of feedback is pretend.
 
-## The basics you should know about me are …
-
-Mornings start with lifting and a well-brewed coffee.
-
-I write things down. I think in documents and slide decks. I like building and testing, at work and at home.
-
-## Beyond work, I’m really passionate about …
-
-Coffee and food. Fermented pizza dough for Neapolitan pizza. Smashed burgers the kids actually want. Making things around the house, including furniture.
-
-Family is not a footnote. Tennis, handball, Lego, computer games: that time is protected. When I travel, I want the ordinary day of a place, not the sightseeing circuit.
-
 ## My absolute requirements to do great work are …
 
 Direct, transparent feedback. Room to sit in ambiguity. I align with the Stacey Complexity Model and I am comfortable in the chaos. My job in that space is to reduce uncertainty, for myself and for everyone else, until there is a path people can trust.
@@ -62,6 +50,8 @@ I prefer async. Write it. I will read it. Meetings are for the things writing ca
 
 I like collaborating. I like in-person time when the topic is heavy. I do not like defaulting to a meeting because nobody wrote the doc.
 
+I write things down. I think in documents and slide decks. I like building and testing.
+
 ## How I decide
 
 I will sit with uncertainty until the path is clear enough to move. I want a hypothesis, not a finished narrative. I move when there is evidence, or a bet we can stand behind.
@@ -73,13 +63,25 @@ If you need a rubber stamp, I am the wrong person. If you need someone to help m
 1. Write first. Slack is the check-in, not the strategy session.
 2. Use live time for feedback, conflict, and strategy. Not for status.
 3. Do not default to a meeting.
-4. Mornings are deep work. Family evenings are protected. Morning lifting is not optional for me.
+4. Mornings are deep work. Evening time is protected. Morning lifting is not optional for me.
 
 ## What I will push on, and what I will not
 
 I will push on taste, judgment, and whether we are building a tool or a toy. I will push on shipping in order to learn, not polishing in order to feel safe.
 
 I will not do long email threads. I will not play vague alignment theater. I will not help hide bad news. If something is broken, put it on the table.
+
+---
+
+## The basics you should know about me are …
+
+Mornings start with lifting and a well-brewed coffee. I am a coffee nerd. I like making things: pizza, burgers, furniture, experiments.
+
+## Beyond work, I’m really passionate about …
+
+Coffee and food. Fermented pizza dough for Neapolitan pizza. Smashed burgers the kids actually want. Making things around the house, including furniture.
+
+I am a family person with two kids. Family is not a footnote. Tennis, handball, Lego, computer games: that time is protected. When I travel, I want the ordinary day of a place, not the sightseeing circuit.
 
 ---
 
