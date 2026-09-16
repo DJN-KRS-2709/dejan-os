@@ -1,0 +1,15 @@
+# Dejan Krstic
+
+> How to work with Dejan. For colleagues, collaborators, and tools.
+
+Dejan Krstic is Chief Product Officer at Product School. Direct communicator. Family person. Coffee nerd. Early bird. Async by default.
+
+## Canonical files
+
+- [README.md](https://github.com/DJN-KRS-2709/dejan-os/blob/main/README.md): human operating manual
+- [dejan.json](https://raw.githubusercontent.com/DJN-KRS-2709/dejan-os/main/dejan.json): machine-readable copy (this is the v1 API)
+- [AGENTS.md](https://github.com/DJN-KRS-2709/dejan-os/blob/main/AGENTS.md): instructions if you are an agent working with or as context for Dejan
+
+## Load this first
+
+Reach him on Slack, not email (email is for invites only). Convince him with honesty plus a hypothesis or data. Give feedback with Radical Candor: prompt, specific, preferably live. Mornings are deep work after lifting. Family evenings are protected. He is comfortable in ambiguity and sees his job as reducing uncertainty for others. Write first. Do not default to a meeting. Do not hide bad news.

@@ -1,0 +1,81 @@
+{
+  "name": "Dejan Krstic",
+  "role": "Chief Product Officer, Product School",
+  "audience": "colleagues-and-collaborators",
+  "version": "1.0.0",
+  "who_i_am": {
+    "summary": "Family person, builder, coffee nerd, direct communicator. Works asynchronously. Gets his head straight by lifting in the morning.",
+    "family": "Two small kids. Family time is protected.",
+    "builder": ["food", "pizza", "burgers", "furniture", "experiments"],
+    "languages": ["German", "English", "Croatian", "Serbian", "Bosnian"]
+  },
+  "works_brilliantly_with": {
+    "summary": "People who think differently, hold different beliefs, and approach work uniquely.",
+    "wants": ["difference", "point-of-view", "hypotheses", "data"],
+    "does_not_want": ["theater", "culture-fit-sameness"]
+  },
+  "channels": {
+    "primary": "slack",
+    "email": "invites-only",
+    "notes": "Check in on Slack. Use email only to accept invites."
+  },
+  "convince_me_with": ["honesty", "hypotheses", "data"],
+  "motivation": {
+    "summary": "Thrives in uncertainty. Relishes problem-solving, process honesty, strategy, and helping people become more capable.",
+    "keywords": ["uncertainty", "problem-solving", "strategy", "capability", "passion"]
+  },
+  "stress_tells": [
+    "feels-disorganized",
+    "critical-work-starved",
+    "mood-drops",
+    "sense-of-unproductivity"
+  ],
+  "feedback": {
+    "style": "radical-candor",
+    "care": "personally",
+    "challenge": "directly",
+    "prefer": "in-person",
+    "want": ["direct", "timely", "concrete-examples", "room-for-follow-up-questions"]
+  },
+  "basics": {
+    "morning": ["weightlifting", "coffee"],
+    "coffee_nerd": true,
+    "tracks": ["beans", "grinder-settings", "extraction-times"],
+    "thinks_in": ["documents", "slide-decks"]
+  },
+  "beyond_work": {
+    "passions": ["coffee", "food", "making-things", "family", "travel-as-daily-life"],
+    "family_activities": ["tennis", "handball", "lego", "computer-games"],
+    "food": ["neapolitan-pizza", "smashed-burgers"]
+  },
+  "requirements_for_great_work": {
+    "summary": "Direct transparent feedback, room for ambiguity, systematically reducing uncertainty, tracking impact.",
+    "complexity_model": "stacey",
+    "operates_in": "chaos",
+    "job_in_chaos": "reduce-uncertainty-and-create-clear-paths"
+  },
+  "working_patterns": {
+    "chronotype": "early-bird",
+    "peak": "morning",
+    "default": "asynchronous",
+    "collaboration": "enjoys-it",
+    "in_person_for": ["feedback", "conflict", "strategy", "deeper-connection"]
+  },
+  "energy": {
+    "peak": "morning",
+    "protected": ["morning-workout", "family-evenings", "morning-deep-work"]
+  },
+  "decision_style": {
+    "summary": "Sits in ambiguity until the path is clear. Wants a hypothesis, not a polished deck. Moves on evidence or a well-founded bet.",
+    "wants": ["hypothesis", "evidence", "clear-bet"],
+    "not": ["rubber-stamp", "finished-narrative-first"]
+  },
+  "how_to_use_my_time": [
+    "write-first",
+    "slack-for-check-ins",
+    "live-time-for-feedback-conflict-strategy",
+    "do-not-default-to-meetings"
+  ],
+  "will_push_on": ["taste", "judgment", "toy-vs-tool", "shipping-to-learn"],
+  "will_not": ["email-threads", "alignment-theater", "hiding-bad-news"]
+}
