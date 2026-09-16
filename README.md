@@ -2,7 +2,7 @@
 
 I am Chief Product Officer at Product School. This page is for colleagues and collaborators: how I operate, what I care about, and how to work with me without guessing.
 
-I am a family person with two small kids. I am a coffee nerd. I like making things: pizza, burgers, furniture, experiments. I work out in the morning because that is how I get my head straight. I am passionate, direct, and I prefer to work asynchronously.
+I am a family person with two kids. I am a coffee nerd. I like making things: pizza, burgers, furniture, experiments. I work out in the morning because that is how I get my head straight. I am passionate, direct, and I prefer to work asynchronously.
 
 If you are a tool, start at [`dejan.json`](./dejan.json) and [`llms.txt`](./llms.txt).
 
@@ -38,7 +38,7 @@ I want it prompt, honest, and tied to a concrete example so I can do something w
 
 ## The basics you should know about me are …
 
-Mornings start with lifting and a well-brewed coffee. I track beans, grinder settings, and extraction times in a spreadsheet. That is not a bit. That is how I am wired.
+Mornings start with lifting and a well-brewed coffee.
 
 I write things down. I think in documents and slide decks. I like building and testing, at work and at home.
 
